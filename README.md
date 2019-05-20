@@ -1,1 +1,1 @@
-# myAppstore
+# myAppStore
